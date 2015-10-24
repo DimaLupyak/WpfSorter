@@ -1,0 +1,15 @@
+D:\Programming\VisualStudioProjects\Delphi\DimaLupyak\WpfSorter\WpfSorterViewModel\obj\Debug\WpfSorterViewModel.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioProjects\Delphi\DimaLupyak\WpfSorter\WpfSorterViewModel\bin\Debug\WpfSorterViewModel.dll
+D:\Programming\VisualStudioProjects\Delphi\DimaLupyak\WpfSorter\WpfSorterViewModel\bin\Debug\WpfSorterViewModel.pdb
+D:\Programming\VisualStudioProjects\Delphi\DimaLupyak\WpfSorter\WpfSorterViewModel\bin\Debug\SorterBase.dll
+D:\Programming\VisualStudioProjects\Delphi\DimaLupyak\WpfSorter\WpfSorterViewModel\bin\Debug\WpfSorterModel.dll
+D:\Programming\VisualStudioProjects\Delphi\DimaLupyak\WpfSorter\WpfSorterViewModel\bin\Debug\SorterBase.pdb
+D:\Programming\VisualStudioProjects\Delphi\DimaLupyak\WpfSorter\WpfSorterViewModel\bin\Debug\WpfSorterModel.pdb
+D:\Programming\VisualStudioProjects\Delphi\DimaLupyak\WpfSorter\WpfSorterViewModel\obj\Debug\WpfSorterViewModel.dll
+D:\Programming\VisualStudioProjects\Delphi\DimaLupyak\WpfSorter\WpfSorterViewModel\obj\Debug\WpfSorterViewModel.pdb
+D:\Programming\VisualStudioProjects\Delphi\DimaLupyak\WpfSorter\WpfSorterViewModel\bin\Debug\DataBaseMannager.dll
+D:\Programming\VisualStudioProjects\Delphi\DimaLupyak\WpfSorter\WpfSorterViewModel\bin\Debug\EntityFramework.dll
+D:\Programming\VisualStudioProjects\Delphi\DimaLupyak\WpfSorter\WpfSorterViewModel\bin\Debug\DataBaseMannager.pdb
+D:\Programming\VisualStudioProjects\Delphi\DimaLupyak\WpfSorter\WpfSorterViewModel\bin\Debug\EntityFramework.xml
+D:\Programming\VisualStudioProjects\Delphi\DimaLupyak\WpfSorter\WpfSorterViewModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\Programming\VisualStudioProjects\Delphi\DimaLupyak\WpfSorter\WpfSorterViewModel\bin\Debug\EntityFramework.SqlServer.xml

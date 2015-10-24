@@ -1,0 +1,9 @@
+D:\Programming\VisualStudioProjects\Delphi\DimaLupyak\WpfSorter\WpfSorterModel\bin\Debug\WpfSorterModel.dll
+D:\Programming\VisualStudioProjects\Delphi\DimaLupyak\WpfSorter\WpfSorterModel\bin\Debug\WpfSorterModel.pdb
+D:\Programming\VisualStudioProjects\Delphi\DimaLupyak\WpfSorter\WpfSorterModel\bin\Debug\SorterBase.dll
+D:\Programming\VisualStudioProjects\Delphi\DimaLupyak\WpfSorter\WpfSorterModel\bin\Debug\SorterBase.pdb
+D:\Programming\VisualStudioProjects\Delphi\DimaLupyak\WpfSorter\WpfSorterModel\obj\Debug\WpfSorterModel.csprojResolveAssemblyReference.cache
+D:\Programming\VisualStudioProjects\Delphi\DimaLupyak\WpfSorter\WpfSorterModel\obj\Debug\WpfSorterModel.dll
+D:\Programming\VisualStudioProjects\Delphi\DimaLupyak\WpfSorter\WpfSorterModel\obj\Debug\WpfSorterModel.pdb
+D:\Programming\VisualStudioProjects\Delphi\DimaLupyak\WpfSorter\WpfSorterModel\bin\Debug\WpfSorterModel.dll.CodeAnalysisLog.xml
+D:\Programming\VisualStudioProjects\Delphi\DimaLupyak\WpfSorter\WpfSorterModel\bin\Debug\WpfSorterModel.dll.lastcodeanalysissucceeded

@@ -1,0 +1,31 @@
+﻿<UserControl x:Class="WpfSorter.View.SorterControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"              
+             xmlns:converters="clr-namespace:WpfSorter.ViewModel.Converters;assembly=WpfSorterViewModel"
+             xmlns:local="clr-namespace:WpfSorter.View"
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300">
+    <UserControl.Resources>        
+    </UserControl.Resources>
+    <DockPanel>
+        <Expander DockPanel.Dock="Top" 
+                  Header="{Binding Sorter.Name}" 
+                  IsExpanded="True" Style="{DynamicResource ExpanderStyle}">
+            
+            <DockPanel DockPanel.Dock="Top" 
+                       IsEnabled="{Binding Sorter.ArrayIsLoaded}">
+                <Button x:Name="btnChangeState" DockPanel.Dock="Left" 
+                        Command="{Binding ChangeStateClickCommand}" 
+                        Style="{DynamicResource ChangeSorterStateButtonStyle}"/>
+                <ScrollViewer VerticalScrollBarVisibility="Disabled" 
+                              HorizontalScrollBarVisibility="Auto" Style="{DynamicResource ScrollViewerStyle}">
+                    <ItemsControl ItemsSource="{Binding Sorter.Elements}" 
+                                Style="{DynamicResource ItemsControlStyle}">
+                    </ItemsControl>
+                </ScrollViewer>
+            </DockPanel>
+        </Expander>
+    </DockPanel>
+</UserControl>

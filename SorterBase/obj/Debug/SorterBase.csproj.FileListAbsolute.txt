@@ -1,0 +1,5 @@
+D:\Programming\VisualStudioProjects\Delphi\DimaLupyak\WpfSorter\SorterBase\bin\Debug\SorterBase.dll
+D:\Programming\VisualStudioProjects\Delphi\DimaLupyak\WpfSorter\SorterBase\bin\Debug\SorterBase.pdb
+D:\Programming\VisualStudioProjects\Delphi\DimaLupyak\WpfSorter\SorterBase\obj\Debug\SorterBase.dll
+D:\Programming\VisualStudioProjects\Delphi\DimaLupyak\WpfSorter\SorterBase\obj\Debug\SorterBase.pdb
+D:\Programming\VisualStudioProjects\Delphi\DimaLupyak\WpfSorter\SorterBase\obj\Debug\SorterBase.csprojResolveAssemblyReference.cache
