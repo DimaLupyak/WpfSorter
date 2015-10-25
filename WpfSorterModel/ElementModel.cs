@@ -32,10 +32,6 @@ namespace WpfSorter.Model
 
         #region Properties
 
-        /// <summary>
-        /// Get or set first name.
-        /// </summary>
-        /// 
         public int Value
         {
             get { return value; }
